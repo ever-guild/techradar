@@ -21,7 +21,6 @@
 }
 
 .src {
-  width: 60px;
   transition: width 200ms ease-in-out;
 }
 

@@ -2,7 +2,7 @@
   "basePath": "/",
   "baseUrl": "",
   "editUrl": "https://github.dev/layer2state/radar/blob/main/radar/{release}/{id}.md",
-  "logoFile": "logo.svg",
+  "logoFile": "logo.png",
   "jsFile": "",
   "toggles": {
     "showSearch": false,
@@ -119,7 +119,7 @@
   ],
   "imprint": "https://www.layer2state.com/foundation",
   "labels": {
-    "title": "Layer2State Radar",
+    "title": "Radar",
     "imprint": "Legal Information",
     "quadrant": "Quadrant",
     "quadrantOverview": "Quadrant Overview",
