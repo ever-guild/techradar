@@ -1,4 +1,4 @@
-name: Test AOE Technology Radar
+name: Test Technology Radar
 
 on:
   pull_request:

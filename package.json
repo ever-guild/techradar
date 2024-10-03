@@ -1,5 +1,5 @@
 {
-  "name": "aoe_technology_radar",
+  "name": "@layer2state/radar",
   "version": "4.4.0",
   "bin": {
     "techradar": "./bin/techradar.js"

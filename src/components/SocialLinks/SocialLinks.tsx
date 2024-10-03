@@ -1,6 +1,8 @@
 import styles from "./SocialLinks.module.css";
 
 import {
+  SocialBlog,
+  SocialBot,
   SocialFacebook,
   SocialGithub,
   SocialGitlab,
@@ -19,6 +21,10 @@ interface SocialLinksProps {
 
 function getIcon(name: string) {
   switch (name.toLowerCase()) {
+    case "bot":
+      return SocialBot;
+    case "blog":
+      return SocialBlog;
     case "facebook":
       return SocialFacebook;
     case "github":

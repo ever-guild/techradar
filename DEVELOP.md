@@ -1,11 +1,13 @@
-# Layer2State Radar
+# Develop Layer2State Radar
 
 A static site generator for Layer2State Radar
 
+![Screenshot of the Layer2State Radar](./docs/assets/screenshot-techradar.png)
+
 ## Looking for the Layer2State Radar content?
 
-- The repository is now found here: [github.com/Layer2State/radar](https://github.com/Layer2State/radar)
-- The Layer2State Radar is deployed here: [Layer2State.github.io](https://Layer2State.github.io/)
+- The repository is now found here: https://github.com/Layer2State/radar
+- The Layer2State Radar is deployed here: https://layer2State.github.io/radar/
 
 ## Create your own radar
 
@@ -72,7 +74,6 @@ Open the `config.json` file and configure the radar to your needs.
 
 | Attribute        | Description                                             |
 | ---------------- | ------------------------------------------------------- |
-| showSearch       | Render the radar search on the header?                  |
 | showChart        | Render the radar visualization on the homepage?         |
 | showTagFilter    | Render the tag filter below the radar?                  |
 | showQuadrantList | Render the items below the radar?                       |
