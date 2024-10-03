@@ -3,7 +3,6 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  min-height: 60px;
   gap: 16px;
   transition: padding-left 200ms ease-in-out;
 
@@ -41,7 +40,6 @@
     opacity: 0.8;
   }
   .src {
-    width: 75px;
   }
 
   &:hover {

@@ -3,6 +3,7 @@
   display: flex;
   gap: 16px;
   font-size: 14px;
+  margin-bottom: 0;
 }
 
 .icon {
