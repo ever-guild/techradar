@@ -1,6 +1,6 @@
 ---
 title: "Liberland"
-ring: develop
+ring: active
 quadrant: micronation
 tags:
   - citizenship
