@@ -1,7 +1,7 @@
 ---
 title: "Asgardia"
 ring: active
-quadrant: micronation
+quadrant: governance
 tags:
   - citizenship
 ---
